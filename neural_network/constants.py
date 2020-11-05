@@ -1,0 +1,2 @@
+BLACK_INT = 0
+WHITE_INT = 1
